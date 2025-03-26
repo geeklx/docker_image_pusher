@@ -1,3 +1,4 @@
 # python:3.12-slim
 # python:3.13-slim
-node:22-bullseye-slim
+# node:22-bullseye-slim
+python:3.12.3-slim-bullseye
