@@ -2,4 +2,4 @@
 # python:3.13-slim
 # node:22-bullseye-slim
 # python:3.12.3-slim-bullseye
-node:23-alpine AS base
+node:23-alpine
