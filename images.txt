@@ -5,4 +5,5 @@
 # node:23-alpine
 # python:3.12
 # nvidia/cuda:12.8.1-cudnn-runtime-ubuntu24.04
-nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
+# nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
+pytorch:2.0.1-cuda11.7-cudnn8-runtime
