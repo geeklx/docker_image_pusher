@@ -12,4 +12,5 @@
 # python:3.10-slim
 # python:3.11-slim
 # node:20-alpine
-debian:bullseye-slim
+# debian:bullseye-slim
+python:3.13-slim-bookworm
