@@ -14,4 +14,5 @@
 # node:20-alpine
 # debian:bullseye-slim
 # python:3.13-slim-bookworm
-python:3.13
+# python:3.13
+pytorch/pytorch:2.3.0-cuda12.1-cudnn8-runtime
