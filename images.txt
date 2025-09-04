@@ -17,4 +17,5 @@
 # python:3.13
 # pytorch:2.3.0-cuda12.1-cudnn8-runtime
 # pytorch/pytorch:2.3.0-cuda12.1-cudnn8-runtime
-golang:1.23.10-alpine
+# golang:1.23.10-alpine
+lmsysorg/sglang:v0.4.9.post6-cu126
